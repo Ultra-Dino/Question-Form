@@ -1,0 +1,30 @@
+if name == person:
+  print('YOU FAILED! HA! HA! HA! Please do not continue the form!''(JUST KIDDING!!!)')
+print('your name is', name);
+color=input('what is your favroite color\n')
+if color == 'blue':
+  print("That's my favroite color too!")
+else:
+  print("I don't like that color")
+food=input('what is your favroite food\n')
+print(food,' is a yummy food')
+number=input('what is your favroite number?\n')
+if number=='100':
+  print("That's my favroite number too!")
+else:
+    print('I don\'t like the number ',number)
+sport=input('what is your favroite sport?\n') 
+
+print('Your name is', name)
+print('Your favroite color is', color)
+print('Your favroite food is', food)
+print('Your favroite number is', number)
+print('Your favroite sport is', sport)
+print('The person who helps you the most is is', person)
+
+print('Thank you for filling out the form!')
+
+print('~Neil Nabar~')
+
+
+
