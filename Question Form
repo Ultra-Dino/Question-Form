@@ -1,3 +1,5 @@
+person=input('Who do you think helps you the most?')
+name=input('what is your name?')
 if name == person:
   print('YOU FAILED! HA! HA! HA! Please do not continue the form!''(JUST KIDDING!!!)')
 print('your name is', name);
